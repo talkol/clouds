@@ -2,13 +2,15 @@
 
 Virtual Reality experience based on WebVR, requires a headset like Oculus Quest.
 
+<img src="https://thumbs.gfycat.com/VelvetyAffectionateFrogmouth-small.gif">
+
 ### Intructions
 
 1. Use the headset browser to visit the site
 2. Click on the screen to enter VR mode
 3. Enjoy
 
----
+### Credits
 
 Based on https://www.shadertoy.com/view/XslGRr
 
